@@ -1,4 +1,4 @@
-#👋 Olá, eu sou o Gustavo Godoi
+# 👋 Olá, eu sou o Gustavo Godoi
 
 🎯 Desenvolvedor Júnior .NET
 💻 C# | ASP.NET | SQL Server
