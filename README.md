@@ -35,4 +35,4 @@ Formação Backend .NET (Balta.io) · Acesso a dados com Dapper · Boas prática
 
 - LinkedIn: [linkedin.com/in/gustavosantosgodoi](https://www.linkedin.com/in/gustavosantosgodoi/)
 - E-mail: gustavogodoisouza@gmail.com
-- Localização: Embu-Guaçu, SP, Brasil
+- Localização: SP, SP, Brasil
